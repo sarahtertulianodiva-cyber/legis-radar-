@@ -1,0 +1,6 @@
+{
+  "name": "Vigília Cidadã: Monitoramento Legislativo IA",
+  "description": "Monitoramento e resumo automático de projetos de lei brasileiros usando IA. Traduz juridiquês para linguagem simples e oferece alertas personalizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
